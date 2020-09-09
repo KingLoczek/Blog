@@ -11,7 +11,7 @@ body {
   font-size: 40px;
   color:black;
   text-align: center;
-  color:#8c8c8c;
+  background-color:#8c8c8c;
 }
 .leftcolumn {   
   float: left;
